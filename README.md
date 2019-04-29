@@ -64,7 +64,7 @@ All results can be downloaded from [Google Drive](https://drive.google.com/drive
   <img src="code/data/bag.gif" width="400px" />
 </div>
 
-- To reproduce the reuslts on paper, the pretrained model can be downloaded from [Google Drive](https://drive.google.com/open?id=1BtIkp5pB6aqePQGlMb2_Z7bfPy6XEj6H): `SiamRPNOTB.model`. <br />
+- To reproduce the results on paper, the pretrained model can be downloaded from [Google Drive](https://drive.google.com/open?id=1BtIkp5pB6aqePQGlMb2_Z7bfPy6XEj6H): `SiamRPNOTB.model`. <br />
 :zap: :zap: This model is the **fastest** (~200fps) Siamese Tracker with AUC of 0.655 on OTB2015. :zap: :zap: 
 
 - You must download OTB2015 dataset (download [script](code/data/get_otb_data.sh)) at first.
